@@ -1,1 +1,1 @@
-# sysman3
+# Rendszerüzemeltetés 3 gyakorlat
